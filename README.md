@@ -1,5 +1,11 @@
 # BombSweeper
-マインスイーパーを自作してみました。（高校2年のとき）
+マインスイーパーを自作しました。（高校2年のとき）
+
+## 開発環境
+- Language： C++
+- OS      : Windows7 Professional (64 bit)
+- IDE     : Microsoft Visual C++ 2010
+- Library : DX Library
 
 ## モード紹介
 - Standard
