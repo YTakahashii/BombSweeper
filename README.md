@@ -5,7 +5,7 @@
 - Language： C++
 - OS      : Windows7 Professional (64 bit)
 - IDE     : Microsoft Visual C++ 2010
-- Library : DX Library
+- Library : DX Library Ver 3.08e
 
 ## モード紹介
 - Standard
